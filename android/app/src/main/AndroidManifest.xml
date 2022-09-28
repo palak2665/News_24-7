@@ -2,7 +2,7 @@
     package="com.example.news_24_7">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="News_24/7"
+        android:label="News 24/7"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
