@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # news_24_7
 
 A new Flutter project.
